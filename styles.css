@@ -34,3 +34,8 @@ textarea, input {
     border-style: solid;
 	border-color:#E6E6E6;
 }
+#view{
+	color:#E6E6E6 ;
+    font-size: medium;
+    font-family: monospace;
+}
